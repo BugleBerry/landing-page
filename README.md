@@ -1,0 +1,1 @@
+This project is meant to test css and html skills in recreating a typical landing page for a website.
